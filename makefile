@@ -1,3 +1,5 @@
+# 创建目标文件目录
+$(shell mkdir -p obj)
 
 all:server
 
